@@ -35,10 +35,14 @@ Os principais resultados indicam que as maiores variações percentuais ocorrem 
 ## Requisitos
 
 - Python 3.X
-- Bibliotecas: 
-  - `Pandas`
-  - `Plotly`
-  - `Matplotlib`
+- Bibliotecas necessárias:
+  - `pandas`
+  - `yfinance`
+  - `requests`
+  - `plotly`
+  - `openpyxl`
+  - `jupyterlab`
+  - `seaborn`
 
 ## Como Executar
 
